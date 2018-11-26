@@ -5,10 +5,6 @@
   "main": "./src/index.js",
   "author": "Renaud Déchaux <contact@rdhox.io>",
   "dependencies": {
-    "prop-types": "^15.6.2",
-    "react": "^16.6.3",
-    "react-dom": "^16.6.3",
-    "react-scripts": "2.1.1",
     "styled-components": "^4.1.1"
   },
   "scripts": {
@@ -35,6 +31,10 @@
   ],
   "precommit": "NODE_ENV=production lint-staged",
   "devDependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-scripts": "2.1.1",
     "enzyme": "^3.7.0",
     "enzyme-adapter-react-16": "^1.7.0",
     "eslint-config-airbnb": "^17.1.0",
