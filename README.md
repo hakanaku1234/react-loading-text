@@ -39,7 +39,7 @@ const Text = () => {
 };
 ```
 
-The `LoadingEffect` (name it like you want) component take a `style` object props. It can have 4 keys that correspond at the screen width:
+The `LoadingEffect` (name it like you want) component take a `style` object props. It can have 4 keys that correspond to the screen width:
 
 - default > 1200px
 - md > 992px
