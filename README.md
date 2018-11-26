@@ -2,7 +2,7 @@
 
 Coded for a small personnal project, I put the component on npm. Don't hesitate to fork and do what you want with it!
 
-[example]: https://github.com/rdhox/react-loading-text/assets/react-loading-text.gif "example react-loading-text"
+[example]: https://github.com/rdhox/react-loading-text/blob/master/assets/react-loading-text.gif "example react-loading-text"
 
 ![alt text][example]
 
