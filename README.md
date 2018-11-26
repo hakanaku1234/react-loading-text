@@ -1,5 +1,3 @@
-# REACT-LOADING-TEXT
-
 Coded for a small personnal project, I put the component on npm. Don't hesitate to fork and do what you want with it!
 
 [example]: https://github.com/rdhox/react-loading-text/blob/master/assets/react-loading-text.gif "example react-loading-text"
