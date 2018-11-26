@@ -1,0 +1,374 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Minitel composant When the composant is mount renders correctly 1`] = `
+<div
+  className="sc-bdVaJa jCeSos"
+  style={
+    Object {
+      "default": Array [
+        18,
+        10,
+        "white",
+        0,
+        0.1,
+        "linear",
+        [MockFunction],
+      ],
+    }
+  }
+>
+  <div
+    className="sc-bwzfXH eQSDlG"
+    style={
+      Object {
+        "default": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "md": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "sm": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "xs": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+      }
+    }
+  />
+  <div
+    className="sc-bwzfXH fGIjxC"
+    style={
+      Object {
+        "default": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "md": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "sm": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "xs": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+      }
+    }
+  />
+  <div
+    className="sc-bwzfXH ckPZck"
+    style={
+      Object {
+        "default": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "md": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "sm": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "xs": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+      }
+    }
+  />
+  <div
+    className="sc-bwzfXH bAlUyc"
+    style={
+      Object {
+        "default": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "md": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "sm": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "xs": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+      }
+    }
+  />
+  <div
+    className="sc-bwzfXH jrcLNc"
+    style={
+      Object {
+        "default": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "md": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "sm": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "xs": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+      }
+    }
+  />
+  <div
+    className="sc-bwzfXH fVsltN"
+    style={
+      Object {
+        "default": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "md": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "sm": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "xs": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+      }
+    }
+  />
+  <div
+    className="sc-bwzfXH cWyuic"
+    style={
+      Object {
+        "default": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "md": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "sm": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "xs": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+      }
+    }
+  />
+  <div
+    className="sc-bwzfXH fGigbh"
+    style={
+      Object {
+        "default": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "md": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "sm": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "xs": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+      }
+    }
+  />
+  <div
+    className="sc-bwzfXH dZvnEY"
+    style={
+      Object {
+        "default": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "md": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "sm": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "xs": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+      }
+    }
+  />
+  <div
+    className="sc-bwzfXH iGLMDd"
+    style={
+      Object {
+        "default": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "md": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "sm": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+        "xs": Array [
+          18,
+          "white",
+          0,
+          0.1,
+          "linear",
+        ],
+      }
+    }
+  />
+  <p>
+    Hello World!
+  </p>
+</div>
+`;
