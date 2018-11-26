@@ -1,6 +1,6 @@
 {
   "name": "react-loading-text",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "A React component to simulate loading text from old french Minitel",
   "main": "./src/index.js",
   "author": "Renaud Déchaux <contact@rdhox.io>",
